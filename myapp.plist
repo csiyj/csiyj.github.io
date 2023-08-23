@@ -28,7 +28,7 @@
 
      <!-- http或者https链接的ipa文件地址 -->
 
-     <string>http://8.134.59.171:8040/yigo/TCL_EST.ipa</string>
+     <string>http://8.134.59.171:8086/yigo/ios_sp13.ipa</string>
 
     </dict>
 
@@ -46,7 +46,7 @@
 
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>http://8.134.59.171:8040/yigo/TCL180.png</string>
+     <string>http://8.134.59.171:8086/yigo/boke.png</string>
 
     </dict>
 
@@ -64,7 +64,7 @@
 
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>http://8.134.59.171:8040/yigo/TCL180.png</string>
+     <string>http://8.134.59.171:8086/yigo/boke.png</string>
 
     </dict>
 
