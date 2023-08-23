@@ -78,7 +78,7 @@
 
     <!-- BundleID，就是新建app时的包名 -->
 
-    <string>com.wzdigit.est</string>
+    <string>com.bokesoft.webapp</string>
 
     <key>bundle-version</key>
 
