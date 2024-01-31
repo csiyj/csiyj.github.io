@@ -86,15 +86,15 @@
 
     <string>1.0.0</string>
 
-    <key>kind</key>
+   <!--  <key>kind</key> -->
 
-    <string>software</string>
+    <!-- <string>software</string> -->
 
     <key>title</key>
 
     <!-- 安装app时的提示信息 -->
 
-    <string>Wzdigit App download</string>
+    <string>GirantPM</string>
 
    </dict>
 
